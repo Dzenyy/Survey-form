@@ -1,5 +1,5 @@
 body{
-	background-color: #bd6b6b;
+	background-image: radial-gradient(circle, white, #c7cdd6, #365584);
 }
 #main{
 	background-color: white;
@@ -15,10 +15,11 @@ body{
 }
 #title{
 	font-family: Georgia;
-	color: #000;
+	color: #f2f4f7;
 	text-align: center;
 	font-size: 60px;
-	text-shadow: 0 0 0.2em;
+	text-shadow: 0 0 0.1em;
+	margin-top: -5px;
 }
 #description{
 	font-weight: bold;
@@ -60,7 +61,7 @@ body{
 	 margin-bottom: 30px;
 	 width: 120px;
 	 height: 40px;
-	 background-color: #f0a4a4;
+	 background-color: #ddd;
 	 font-weight: bold;
 	 font-size: 25px;
 }
